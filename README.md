@@ -6,7 +6,7 @@ This is a real-time **Drowsiness Detection System** using **YOLO**, **OpenCV**, 
 - 🔍 **Real-time drowsiness detection** using YOLO.
 - 🔊 **Beep sound alert** when drowsiness is detected.
 - 🔄 **Fullscreen Mode**: Automatically starts in fullscreen and can be toggled with the `F` key.
-- 🎨 **Improved UI**: Red-colored, bold fonts for drowsy detection and an eye-catching background.
+
 
 ---
 
