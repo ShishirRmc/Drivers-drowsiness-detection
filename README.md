@@ -34,7 +34,7 @@ Ensure you have the following installed:
    ```
 3. **Run the application:**
    ```sh
-   streamlit run dummy.py
+   streamlit run web_app.py
    ```
 
 ---
