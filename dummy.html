@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Drowsiness Detection</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="dummy.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Drowsiness Detection</h1>
+        <div class="video-container">
+            <video id="videoElement" autoplay playsinline></video>
+        </div>
+        <div class="controls">
+            <button id="startDetection" class="btn">Start Detection</button>
+            <button id="stopDetection" class="btn">Stop Detection</button>
+            <button id="stopBeep" class="btn">Stop Beep</button>
+        </div>
+        <div id="alertMessage" class="alert hidden">
+            <p>Drowsiness Detected! Stay Alert!</p>
+        </div>
+    </div>
+    <script src="dummy.js"></script>
+</body>
+
+</html>
